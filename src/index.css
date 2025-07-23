@@ -144,7 +144,7 @@
 
   /* Product Cards */
   .product-card {
-    @apply bg-card border border-border transition-all duration-300 hover:shadow-elegant group;
+    @apply bg-card border border-border transition-all duration-300 hover:shadow-elegant;
   }
 
   .product-card:hover {
